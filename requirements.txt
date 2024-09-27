@@ -1,0 +1,14 @@
+transformers
+gradio
+langchain 
+langchain-community
+langchain-core
+langchain-chroma
+langchain-huggingface
+langgraph
+sentence-transformers
+unstructured
+python-docx
+torch
+accelerate 
+tiktoken
